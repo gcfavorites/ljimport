@@ -1,3 +1,5 @@
+#summary Инструкция для тестеров
+
 = Доступ =
 Ссылка: http://ljimport.idzaaus.org
 
