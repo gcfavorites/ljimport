@@ -6,7 +6,7 @@ e-mail: [mailto:ri@idzaaus.org ri@idzaaus.org]
 
 u-mail: [http://pay.diary.ru/u-mail/?new&username=Ri Ri]
 
-Укажите ваш логин в ЖЖ, а также URL проблемной RSS, если возможно. Предварительно убедитесь, что ваш вопрос не отражен в справке, FAQ и [http://code.google.com/p/ljimport/issues/list баг-трекере].
+Укажите ваш логин в ЖЖ, а также URL проблемной RSS, если возможно. Предварительно убедитесь, что ваш вопрос не отражен в [Help справке], [FAQ] и [http://code.google.com/p/ljimport/issues/list баг-трекере].
 
 Также принимаются пожелания, предложения к сотрудничеству и т. д. 
 
