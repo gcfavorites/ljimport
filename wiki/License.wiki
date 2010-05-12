@@ -1,5 +1,5 @@
 #summary Используемые библиотеки. Исходный код и лицензирование.
 
-Сервис написан на Django. Для взаимодействия с ЖЖ через Livejournal API используется xmlrpclib. Для разбора RSS используется [[feedparser]]. Для преобразований HTML используется [[BeautifulSoup]].
+Сервис написан на Django. Для взаимодействия с ЖЖ через Livejournal API используется xmlrpclib. Для разбора RSS используется [http://www.feedparser.org/ feedparser]. Для преобразований HTML используется [http://www.crummy.com/software/BeautifulSoup/ BeautifulSoup].
 
 Исходный код распространяются свободно по лицензии GNU GPL 3 (FIX). Его можно скачать на вкладке «Downloads».
